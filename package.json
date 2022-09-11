@@ -1,0 +1,23 @@
+{
+  "name": "mealable",
+  "version": "1.0.0",
+  "description": "Modern recipe application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJHer/Mealable.git"
+  },
+  "author": "Daniel her",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielJHer/Mealable/issues"
+  },
+  "homepage": "https://github.com/DanielJHer/Mealable#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  }
+}
