@@ -1,4 +1,4 @@
-import { TIMOUT_SEC } from './config.js';
+import { TIMEOUT_SEC } from './config.js';
 
 export const getJSON = async function (url) {
   try {
