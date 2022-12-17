@@ -1,6 +1,6 @@
 # Mealable
 
-Live Demo: https://mealable-daniel.netlify.app
+(Live Demo)[https://mealable-daniel.netlify.app]
 
 Modern recipe application developed with Vanilla Javascript, HTML, CSS/SASS.
 
